@@ -1,0 +1,13 @@
+.tab-content {
+    padding: 1.5em 7em;
+}
+.tab-content video, .tab-content img {
+    margin-bottom: 1.25em;
+}
+.tab-content h1 {
+    margin-bottom: .5em
+}
+.tab-content p {
+    text-align: justify;
+    font-size: 22px;
+}
