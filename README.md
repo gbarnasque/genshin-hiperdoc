@@ -1,21 +1,20 @@
-# Description
+# Descrição
 
-This project was created to fulfill the requirements of the test.
+Este projeto foi criado para ser um Hiperdocumento sobre Genshin Impact.
+
+## Site disponibilizado
+
+Este projeto está disponibilizado na URL: [https://genshin-hiperdoc.herokuapp.com](https://genshin-hiperdoc.herokuapp.com) caso não seja possível rodá-lo localmente.
 
 ## Node Version
 
-The project was built using `node v.16.14.2`
+Este projeto foi criado utilizando `node v.16.14.2`
 
-## How to run
+## Como rodar localmente
 
-Simply run `npm install` and after the command completes, run `npm start`
+Instale as dependências com o comando `npm install`, e, a seguir, utilize o comando `npm start`
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-
+Rodara o site em modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizar em seu navegador.
