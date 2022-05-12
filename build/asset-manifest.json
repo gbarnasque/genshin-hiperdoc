@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3290680b.css",
+    "main.js": "/static/js/main.fece4950.js",
+    "static/media/genshin-impact-trailer.mp4": "/static/media/genshin-impact-trailer.1d079f15b0a1f742c6b4.mp4",
+    "static/media/Teyvat.webp": "/static/media/Teyvat.236dd2eeccb9fa151a9f.webp",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/personagens.jpg": "/static/media/personagens.cd415a7f53b8660ecf0e.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Genshin_Impact.jpeg": "/static/media/Genshin_Impact.09af85ecd0e57810ee9b.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Emblema_Inazuma.webp": "/static/media/Emblema_Inazuma.5c47ed95b51eeaa41add.webp",
+    "static/media/Genshin_Impact_logo.png": "/static/media/Genshin_Impact_logo.0cac7a5d319ed416899a.png",
+    "static/media/Emblema_Mondstadt.webp": "/static/media/Emblema_Mondstadt.9476005845425344ac3f.webp",
+    "static/media/Emblema_Liyue.webp": "/static/media/Emblema_Liyue.9a8a46cf88bbbd304e84.webp",
+    "index.html": "/index.html",
+    "main.3290680b.css.map": "/static/css/main.3290680b.css.map",
+    "main.fece4950.js.map": "/static/js/main.fece4950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3290680b.css",
+    "static/js/main.fece4950.js"
+  ]
+}
